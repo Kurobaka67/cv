@@ -1,0 +1,212 @@
+{
+    "me":{
+        "firstname": "Jonathan",
+        "lastname": "GRILL",
+        "work": "Développeur Web devops",
+        "email": "jonathan.grill67@gmail.com",
+        "address": "5 rue Antoine Bechamp",
+        "tel": "06 58 23 47 46",
+        "photo": ""
+    },
+    "experiences": [
+        {
+            "title": "Stage Développeur web",
+            "company": "Globaltree",
+            "date": "2022",
+            "duration": "4",
+            "unite": "mois",
+            "description": "Création d’un formulaire dynamique pour pôle emploi en JavaScript (front, avec Vue) et PHP (back, avec Laravel)"
+        },
+        {
+            "title": "Stage Développeur mobile",
+            "company": "TransData System",
+            "date": "2024",
+            "duration": "6",
+            "unite": "mois",
+            "description": "Création d’une application mobile avec flutter pour le frontend et en Nodejs pour le backend"
+        }
+    ],
+    "education": [
+        {
+            "title": "DUT informatique, option mobile",
+            "school": "IUT Robert Schumann, Strasbourg",
+            "date": "2020-2022",
+            "learnings": [
+                {
+                    "title": "Algorithmique, Design Pattern, Programmation orienté objet"
+                },
+                {
+                    "title": "Approfondissement au web (HTML, CSS et JavaScript)"
+                },
+                {
+                    "title": "Réalisation de plusieurs projets en binôme ou en groupe:",
+                    "learnings": [
+                        {
+                            "title": "Un « jeu sérieux » sur la pollution en ville"
+                        },
+                        {
+                            "title": "Un Hackathon sur les réactions des marchésfinanciers aux changements externes"
+                        },
+                        {
+                            "title": "Chef de projet pour une application de suivi dedépenses entre personnes"
+                        }
+                    ]
+                },
+                {
+                    "title": "Initiation au Marketing et à la gestion d'entreprise"
+                }
+            ]
+        },
+        {
+            "title": "BTS Système Numérique 1ère année",
+            "school": "Lycée Couffignal, Strasbourg",
+            "date": "2019-2020",
+            "learnings": [
+                {
+                    "title": "Majeur de promo"
+                },
+                {
+                    "title": "Initiation aux technologies réseaux notamment vial'Installation de caméra de surveillance (adresse IP,interface, ...), la configuration de switch"
+                }
+            ]
+        },
+        {
+            "title": "BAC STI2D",
+            "school": "Lycée Couffignal, Strasbourg",
+            "date": "2018-2019",
+            "learnings": [
+                {
+                    "title": "Mention Bien"
+                },
+                {
+                    "title": "Réalisation complète d’un Robot Braitenberg enéquipe (assemblage, électronique, programmation Arduino, ...)"
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Site web de gestion de catalogue de jeux vidéos",
+            "url": "https://github.com/Kurobaka67/GameDb-frontend",
+            "page": "https://kurobaka67.github.io/GameDb-frontend/#/"
+        },
+        {
+            "title": "Réalisation d'un site web pour mon club detennis de table",
+            "url": "https://github.com/Kurobaka67/TT-CTS",
+            "page": "https://kurobaka67.github.io/TT-CTS/#/"
+        },
+        {
+            "title": "Création d'un jeux vidéo en 3D avec le logicielgodot et la création de modèles 3D avec blender"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg",
+            "rate": 5
+        },
+        {
+            "name": "CSS",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg",
+            "rate": 4
+        },
+        {
+            "name": "Java",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg",
+            "rate": 4
+        },
+        {
+            "name": "JavaScript",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+            "rate": 5
+        },
+        {
+            "name": "Dart",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg",
+            "rate": 5
+        },
+        {
+            "name": "C",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg",
+            "rate": 2
+        },
+        {
+            "name": "Python",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
+            "rate": 3
+        },
+        {
+            "name": "Blender",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg",
+            "rate": 4
+        },
+        {
+            "name": "Flutter",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg",
+            "rate": 5
+        },
+        {
+            "name": "Vuejs",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg",
+            "rate": 5
+        },
+        {
+            "name": "Inkscape",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg",
+            "rate": 3
+        },
+        {
+            "name": "Godot",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg",
+            "rate": 4
+        },
+        {
+            "name": "Github",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg",
+            "rate": 4
+        },
+        {
+            "name": "MongoDb",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
+            "rate": 4
+        },
+        {
+            "name": "MySQL",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg",
+            "rate": 3
+        },
+        {
+            "name": "Nodejs",
+            "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg",
+            "rate": 4
+        }
+    ],
+    "hobbies": [
+        {
+            "title": "Tennis de table",
+            "icon": ""
+        },
+        {
+            "title": "Video games",
+            "icon": ""
+        },
+        {
+            "title": "Casse-tête",
+            "icon": ""
+        },
+        {
+            "title": "Programmation",
+            "icon": ""
+        }
+    ],
+    "languages": [
+        {
+            "title": "Français",
+            "qualified": "Natif"
+        },
+        {
+            "title": "Anglais",
+            "qualified": "B2"
+        }
+    ]
+}
