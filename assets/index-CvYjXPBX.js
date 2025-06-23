@@ -1,0 +1,1 @@
+import{$ as o}from"./index-DIt05sLO.js";import{b7 as l,b8 as a}from"./index-Dy2JIHED.js";function b(){l({variableName:o("scrollbar.width").name})}function i(){a({variableName:o("scrollbar.width").name})}export{b,i as u};
