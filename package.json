@@ -2,6 +2,7 @@
     "name": "cv",
     "version": "4.3.0",
     "private": false,
+    "homepage": "https://kurobaka67.github.io/cv",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
