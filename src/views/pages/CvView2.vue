@@ -105,7 +105,7 @@ onUnmounted(() => {
 </template>
 
 <style>
-@import './src/assets/cv-styles.css';
+@import './../../assets/cv-styles.css';
 
 
 .learning {
