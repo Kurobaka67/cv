@@ -3,7 +3,7 @@ export default class ProfileService {
 
     getData() {
         if(ProfileService.data == null) {
-			return fetch('demo/data/profile.json').then(res => res.json()).then(d => {
+			return fetch('./../../public/demo/data/profile.json').then(res => res.json()).then(d => {
 				ProfileService.data = d;
 				return [...ProfileService.data];
 			});
