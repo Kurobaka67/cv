@@ -9,8 +9,8 @@ const router = createRouter({
             component: AppLayout,
             children: [
                 {
-                    path: '/',
-                    name: 'dashboard',
+                    path: '/cv',
+                    name: 'cv',
                     component: () => import('@/views/pages/CvView2.vue')
                 },
                 {
